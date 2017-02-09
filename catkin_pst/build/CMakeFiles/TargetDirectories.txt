@@ -1,0 +1,13 @@
+/home/skndr/IronMines2016-2017/catkin_pst/build/CMakeFiles/clean_test_results.dir
+/home/skndr/IronMines2016-2017/catkin_pst/build/CMakeFiles/download_extra_data.dir
+/home/skndr/IronMines2016-2017/catkin_pst/build/CMakeFiles/doxygen.dir
+/home/skndr/IronMines2016-2017/catkin_pst/build/PST/CMakeFiles/geometry_msgs_generate_messages_cpp.dir
+/home/skndr/IronMines2016-2017/catkin_pst/build/PST/CMakeFiles/geometry_msgs_generate_messages_lisp.dir
+/home/skndr/IronMines2016-2017/catkin_pst/build/PST/CMakeFiles/geometry_msgs_generate_messages_py.dir
+/home/skndr/IronMines2016-2017/catkin_pst/build/gtest/CMakeFiles/gtest.dir
+/home/skndr/IronMines2016-2017/catkin_pst/build/gtest/CMakeFiles/gtest_main.dir
+/home/skndr/IronMines2016-2017/catkin_pst/build/CMakeFiles/run_tests.dir
+/home/skndr/IronMines2016-2017/catkin_pst/build/PST/CMakeFiles/std_msgs_generate_messages_cpp.dir
+/home/skndr/IronMines2016-2017/catkin_pst/build/PST/CMakeFiles/std_msgs_generate_messages_lisp.dir
+/home/skndr/IronMines2016-2017/catkin_pst/build/PST/CMakeFiles/std_msgs_generate_messages_py.dir
+/home/skndr/IronMines2016-2017/catkin_pst/build/CMakeFiles/tests.dir

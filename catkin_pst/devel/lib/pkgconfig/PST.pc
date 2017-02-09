@@ -1,0 +1,8 @@
+prefix=/home/skndr/IronMines2016-2017/catkin_pst/devel
+
+Name: PST
+Description: Description of PST
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/skndr/IronMines2016-2017/catkin_pst/devel/lib 
+Requires: 

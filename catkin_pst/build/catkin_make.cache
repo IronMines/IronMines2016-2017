@@ -1,0 +1,2 @@
+PST
+-DCATKIN_DEVEL_PREFIX=/home/skndr/IronMines2016-2017/catkin_pst/devel -DCMAKE_INSTALL_PREFIX=/home/skndr/IronMines2016-2017/catkin_pst/install -G Unix Makefiles
